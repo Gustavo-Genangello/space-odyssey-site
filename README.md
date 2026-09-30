@@ -1,1 +1,11 @@
 # space-odyssey-site
+<!DOCTYPE html>
+<html>
+<head><title>Space Odyssey 2D</title></head>
+<body>
+<h1>Space Odyssey 2D - O Jogo</h1>
+<header>Menu do Jogo</header>
+<!-- O video entra aqui -->
+<!-- O rodape entra aqui -->
+</body>
+</html>
